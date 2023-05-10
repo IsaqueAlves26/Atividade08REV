@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkviolet;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: aqua;
+}
+
+caption {
+    font-size: 1.3em;
+    font-weight: bold;
+    padding: 10px;
+    background-color: bisque;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 10px;
+}
